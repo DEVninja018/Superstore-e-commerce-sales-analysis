@@ -50,7 +50,7 @@ The analysis relies on a transactional dataset comprising over 9,000+ records. T
 
 
 ## 📬 Contact
-* **LinkedIn:** [Connect with me on Linkedin🤝](linkedin.com/in/abhas-shrivastava-67a324339)
+* **LinkedIn:** [Connect with me on Linkedin🤝](https://linkedin.com/in/abhas-shrivastava-67a324339)
 * **Email:** abhashshrivastava38@gmail.com
 
  THANKS!!!!
